@@ -5,6 +5,7 @@ Programming stack and tools:
 - CSS
 - SCSS
 - Bootstrap
+- TypeScript
 - Javascript (+ ES6+, Asynchronous JS, OOP, and more!)
 - Python (2 and 3)
 - React.js 
