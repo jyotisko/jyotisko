@@ -17,6 +17,7 @@ Programming stack and tools:
 - Visual Studio Code
 - Postman
 - NPM
+- Firebase (Authentication, Firestore, and Cloud Storage!)
 - Git
 - Github
 - Bash
