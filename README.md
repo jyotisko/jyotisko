@@ -27,5 +27,9 @@ Programming stack and tools:
 
 Currently doing:
 - Fullstack web development
-- DS and Algorithms
+
+Awaited stuff:
+- Make cool stuff with arduino
+- Learn Three.js (who doesn't like 3D graphics, huh?)
+- Data science
 
