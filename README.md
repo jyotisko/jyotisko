@@ -6,9 +6,10 @@ Programming stack and tools:
 - SCSS
 - Bootstrap
 - TypeScript
-- Javascript (+ ES6+, Asynchronous JS, OOP, and more!)
+- Javascript
 - Python (2 and 3)
 - React.js 
+- Redux (with Redux Toolkit)
 - Node.js 
 - Express Framework
 - MongoDB (Cloud Atlas, Shell, and Compass)
@@ -17,7 +18,7 @@ Programming stack and tools:
 - Visual Studio Code
 - Postman
 - NPM
-- Firebase (Authentication, Firestore, and Cloud Storage!)
+- Firebase (Authentication, Firestore, and Cloud Storage)
 - Git
 - Github
 - Bash
@@ -27,9 +28,4 @@ Programming stack and tools:
 
 Currently doing:
 - Fullstack web development
-
-Awaited stuff:
-- Make cool stuff with arduino
-- Learn Three.js (who doesn't like 3D graphics, huh?)
 - Data science
-
