@@ -10,6 +10,7 @@ I'm Jyotisko, a student, and a full-stack web developer.
 <a href="https://github.com/jyotisko/amazon-clone">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jyotisko&repo=amazon-clone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+<br />
 <a href="https://github.com/jyotisko/fullstack-netflix">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jyotisko&repo=fullstack-netflix&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
