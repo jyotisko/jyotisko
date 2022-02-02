@@ -25,23 +25,23 @@ I'm Jyotisko, a student, and a full-stack web developer.
 </a>
 
 ## 💼 Skills
-![](https://img.shields.io/badge/Code-React.js-blue?style=flat&logo=react)
-![](https://img.shields.io/badge/Code-Redux-blue?style=flat&logo=redux)
-![](https://img.shields.io/badge/Code-Javascript-blue?style=flat&logo=javascript)
-![](https://img.shields.io/badge/Code-MongoDB-blue?style=flat&logo=mongodb)
-![](https://img.shields.io/badge/Code-TypeScript-blue?style=flat&logo=typescript)
-![](https://img.shields.io/badge/Code-Node.js-blue?style=flat&logo=node.js)
-![](https://img.shields.io/badge/Code-Express-blue?style=flat&logo=express)
-![](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python)
+![#](https://img.shields.io/badge/Code-React.js-blue?style=flat&logo=react)
+![#](https://img.shields.io/badge/Code-Redux-blue?style=flat&logo=redux)
+![#](https://img.shields.io/badge/Code-Javascript-blue?style=flat&logo=javascript)
+![#](https://img.shields.io/badge/Code-MongoDB-blue?style=flat&logo=mongodb)
+![#](https://img.shields.io/badge/Code-TypeScript-blue?style=flat&logo=typescript)
+![#](https://img.shields.io/badge/Code-Node.js-blue?style=flat&logo=node.js)
+![#](https://img.shields.io/badge/Code-Express-blue?style=flat&logo=express)
+![#](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python)
 
 <details>
 <summary>More Skills</summary>
-![](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python)
-![](https://img.shields.io/badge/Tools-NPM-blue?style=flat&logo=npm)
-![](https://img.shields.io/badge/Tools-Postman-blue?style=flat&logo=postman)
-![](https://img.shields.io/badge/Tools-Netlify-blue?style=flat&logo=netlify)
-![](https://img.shields.io/badge/Tools-Heroku-blue?style=flat&logo=heroku)
-![](https://img.shields.io/badge/Tools-Vercel-blue?style=flat&logo=vercel)
-![](https://img.shields.io/badge/Tools-Github-blue?style=flat&logo=github)
-![](https://img.shields.io/badge/Tools-Figma-blue?style=flat&logo=figma)
+![#](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python)
+![#](https://img.shields.io/badge/Tools-NPM-blue?style=flat&logo=npm)
+![#](https://img.shields.io/badge/Tools-Postman-blue?style=flat&logo=postman)
+![#](https://img.shields.io/badge/Tools-Netlify-blue?style=flat&logo=netlify)
+![#](https://img.shields.io/badge/Tools-Heroku-blue?style=flat&logo=heroku)
+![#](https://img.shields.io/badge/Tools-Vercel-blue?style=flat&logo=vercel)
+![#](https://img.shields.io/badge/Tools-Github-blue?style=flat&logo=github)
+![#](https://img.shields.io/badge/Tools-Figma-blue?style=flat&logo=figma)
 </details>
