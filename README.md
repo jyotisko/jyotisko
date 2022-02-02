@@ -36,7 +36,7 @@ I'm Jyotisko, a student, and a full-stack web developer.
 
 <details>
 <summary>More Skills</summary>
-[](https://img.shields.io/badge/Style-SCSS-blue?style=flat&logo=sass)
+![](https://img.shields.io/badge/Style-SCSS-blue?style=flat&logo=sass)
 <br />
 ![](https://img.shields.io/badge/Tools-NPM-blue?style=flat&logo=npm)
 ![](https://img.shields.io/badge/Tools-Postman-blue?style=flat&logo=postman)
