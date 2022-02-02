@@ -1,3 +1,4 @@
+[![Jyotisko's GitHub Banner](./githubHeader.png)]
 ### Hi there 👋
 
 Programming stack and tools:
